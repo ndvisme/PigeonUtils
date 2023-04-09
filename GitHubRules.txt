@@ -1,0 +1,9 @@
+1) Each repo must have at minimum these branches: 
+  main
+  Sandbox
+2) Each task ➝ new branch from sandbox
+3) Branch rules:
+  Must PR before push:
+    Each PR must pass:
+      Auto code quality tests
+      Person check
