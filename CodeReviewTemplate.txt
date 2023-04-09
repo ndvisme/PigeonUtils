@@ -1,0 +1,26 @@
+Design:
+  For all:
+    One task
+    Naming makes sense.
+    If needed, comments.
+    Easy to read.
+  Class:
+    Not longer then 300 lines
+  Function:
+    Max 3 arguments
+    Max 2 return statements
+    Not more than 3 indents
+    Not longer than 30 lines
+Tests:
+  Each logic has a test.
+  Run tests.
+Logs:
+  Exists 
+Error handling:
+  Try & catch:
+  Logged.
+GitHub:
+  Commits:
+  As few as possible
+  Commit logical names
+  Changes to a small amount of files
