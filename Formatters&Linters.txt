@@ -1,0 +1,12 @@
+Formatters:
+  Python:
+    black
+  Frontend:
+    Prettier
+
+Linters:
+  Python:
+    pylint
+  Frontend:
+    ESlint
+    
