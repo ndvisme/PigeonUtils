@@ -1,0 +1,19 @@
+Pull main branch from wanted repo
+  |
+  V
+Create new branch
+  |
+  V
+Make 2 PRs, to sandbox & main
+  |
+  V
+Admin (of repo) approves 2 PRs
+  |
+  V
+Admin merges to sandbox + does QA
+  |
+  V
+Admin merges PR to main
+  |
+  V
+Admin deletes branch
